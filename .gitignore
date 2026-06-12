@@ -1,0 +1,12 @@
+*.parquet
+*.pkl
+*.npz
+*.npy
+
+combined_data_*.txt
+movie_titles.csv
+
+__pycache__/
+*.pyc
+
+.ipynb_checkpoints/

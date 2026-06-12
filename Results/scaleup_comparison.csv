@@ -1,0 +1,7 @@
+Metric,Small (file 1),Large (files 1+2)
+Ratings (train),"941,270","10,666,672"
+Users,"2,634","24,008"
+Movies,"1,287","2,721"
+RMSE,0.8455,0.7975
+MAP@10,0.1717,0.1274
+SVD Train Time (s),9.4,119.4

@@ -1,0 +1,6 @@
+Metric,Item-CF,SVD
+RMSE (lower better),0.9823,0.8455
+MAP@10 (higher better),0.0632,0.1717
+Training Time (s),~0 (no training),9.4
+Prediction Time (ms/user),5.25,9.81
+Memory (MB),7.72,27.83
